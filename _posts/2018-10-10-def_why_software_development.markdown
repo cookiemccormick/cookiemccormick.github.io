@@ -7,7 +7,7 @@ permalink:  def_why_software_development
 
 Hi!  My name is Alisa Cookie McCormick.  I live in St. Petersburg, Florida.  
 
-I worked at HSN (Home Shopping Network) for the past 11 years, straight out of college from the University of South Florida.  I graduated with a degree in Mass Communication.  I've had various roles at HSN and enjoyed my time there, but felt like it was time to move on.  Retail television is on a decline and the company was recently sold to QVC.  There has been lots of movement in the company, lots of layoffs and people were being made to work more for no extra compensation. 
+I worked at HSN (Home Shopping Network) for the past 11 years, straight out of college from the University of South Florida.  I graduated with a degree in Mass Communication.  I've had various roles at HSN and enjoyed my time there, but felt like it was time to move on.  Retail television is on a decline and the company was recently sold to QVC.  There has been lots of movement in the company and lots of layoffs.
 
 <p align="center"> 
 <img src="https://media.giphy.com/media/QBerHEQLg6EyQ/giphy.gif">
