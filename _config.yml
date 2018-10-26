@@ -1,11 +1,11 @@
 # Site settings
 author: Alisa Cookie McCormick
-title: Cookie Codes
+title: Alisa Cookie McCormick
 header-img: img/home-bg.png
 email: alisa.cookie.mccormick@gmail.com
 copyright_name: Alisa Cookie McCormick
 description: > # this means to ignore newlines until "baseurl:"
-  Coding/Programming
+  Becoming a Full Stack Developer
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  cookiemccormick
