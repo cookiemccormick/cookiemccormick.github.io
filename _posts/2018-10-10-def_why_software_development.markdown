@@ -1,18 +1,20 @@
 ---
 layout: post
-title:      "def why_software_development?"
-date:       2018-10-10 23:17:19 +0000
+title:      "HELLO WORLD!"
+date:       2018-10-10 19:17:20 -0400
 permalink:  def_why_software_development
 ---
 
-How did I get here?  I really think I would have to attribute my current path into software development to an afterwork happy hour - the type of happy hour where you drink and then say all your feelings.  I wasn't too happy with my work situation and I just really needed a change.  I was having a lot of WHAT IF thoughts and the one thought that kept coming up was - What if I got a Computer Engineering degree instead of my Mass Communications degree?  
+Hi!  My name is Alisa Cookie McCormick.  I live in St. Petersburg, Florida.  
 
-I went to the USF and UCF years ago.  I wasn't sure about what I wanted to spend the rest of my life doing and dabbled in a few different fields - one being Computer Engineering.  At that time the bright lights of the entertainment business was calling my name.  I wanted to work in TV, with celebrities, maybe be on camera or producing behind-the-scenes.  I interned at a few different TV outlets in the area and got a job immediately at HSN (Home Shopping Network) where I spent the last 11 YEARS!  I had many roles and got to meet some amazing people - Mary J. Blige, Jennifer Lopez, Wolfgang Puck, Cyndi Lauper, Tyra Banks and more - pretty much everyone had some kind of tie with HSN.  The company was purchased and the situation at work was a a bit shaky.  
+I worked at HSN (Home Shopping Network) for the past 11 years, straight out of college from the University of South Florida.  I graduated with a degree in Mass Communication.  I've had various roles at HSN and enjoyed my time there, but felt like it was time to move on.  Retail television is on a decline and the company was recently sold to QVC.  There has been lots of movement in the company, lots of layoffs and people were being made to work more for no extra compensation. 
 
-![](https://media.giphy.com/media/QBerHEQLg6EyQ/giphy.gif)
+<p align="center"> 
+<img src="https://media.giphy.com/media/QBerHEQLg6EyQ/giphy.gif">
+</p>
 
-Realizing what I really wanted to do during that happy hour, I researched my best school options.  Going back to USF was going to take a long time and be too costly.  Flatiron School was recommended and seems like the best option!   
+During a work Happy Hour, we were all discussing what we would do if we needed to find other work.  The Tampa Bay area isn't the biggest outlet for television besides news.  We would need to move to another location.  I thought about my husband - he's a software engineer and really enjoys the work he does.  I also thought about the tech industry continuoulsy growing each year and the abundance of jobs.  Becoming a software engineering isn't a new thought of mine.  I studied Computer Engineering in college for a year.  This is when I decided I wanted to go back to school.  I tried out some free coding resources to see if this is actually for me and I really enjoyed it!
 
-I want to learn software development, because it's interesting!  I want to use my brain more and create!  The tech community is continuously growing and changing.  There is an abundance of tech jobs in all lines of work.  Also some of the best people I know are software developers - my husband and my grandpa.  They have been super supportive of my decision.  My name is Alisa Cookie McCormick and I've very excited to this new chapter of life.  
+I thought about going back to USF and finishing the degree.  I talked to my husband who said that they actually prefer to hire people out of coding school.  He talked to his coworkers and one of them recommended Flatiron School.  I started on the free Coding Bootcamp and received the The Women Take Tech Scholarship.  
 
-end
+So here I am at the Flatiron School!  I'm very excited to be here and share with you my coding journey!
