@@ -5,7 +5,7 @@ date:       2018-11-14 00:31:37 +0000
 permalink:  understanding_one-to-many_relationships
 ---
 
-I'm currently learning Object Oriented Programming in Ruby.  Object Oriented Programming is used to model real life associations and relationships through classes.  
+I'm currently learning Object Oriented Programming in Ruby.  Object Oriented Programming is used to model real life associations and relationships through classes. 
 
 The most common pattern when modeling object relationships is the one-to-many association. Examples of one-to-many relationships in real life are:  
 
