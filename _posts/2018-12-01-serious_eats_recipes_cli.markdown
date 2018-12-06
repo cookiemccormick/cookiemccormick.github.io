@@ -22,3 +22,9 @@ When the application starts, it fetches the index view and scrapes the list of r
 description, portion amount, active cooking time, total time, rating, ingredients, instructions and website.  The application will then ask the user if they would like to see another recipe.
 
 If yes, the list of recipes will be displayed again and the user will be able to browse the selections.  If no, a friendly goodbye message is displayed.
+
+**Application Links:**
+
+https://rubygems.org/gems/serious-eats
+
+https://github.com/cookiemccormick/serious-eats
