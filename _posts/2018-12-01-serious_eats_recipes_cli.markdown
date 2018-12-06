@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Serious Eats Recipes CLI"
-date:       2018-12-02 04:25:11 +0000
+date:       2018-12-01 23:25:12 -0500
 permalink:  serious_eats_recipes_cli
 ---
 
@@ -18,6 +18,7 @@ The homepage for [Serious Eats](https://www.seriouseats.com/) is a bit busy.  Th
 
 **The application:**
 
-When the application starts, it fetches the index view and scrapes the list of recipes.  It then displays these recipes as a numbered list menu for the user to choose from.  Once the user selects a valid number from the list, that recipe's url is fetched and the complete details of the recipe are parsed into a recipe object.  Then it prints the details of the recipe - a short description, portion amount, active cooking time, total preparation time, rating, ingredients and instructions.  The application will then ask the user if they would like to see another recipe.
+When the application starts, it fetches the index view and scrapes the list of recipes.  It then displays these recipes as a numbered list menu for the user to choose from.  Once the user selects a valid number from the list, that recipe's url is fetched and the complete details of the recipe are parsed into a recipe object.  Then it prints the details of the recipe - a
+description, portion amount, active cooking time, total time, rating, ingredients, instructions and website.  The application will then ask the user if they would like to see another recipe.
 
 If yes, the list of recipes will be displayed again and the user will be able to browse the selections.  If no, a friendly goodbye message is displayed.
