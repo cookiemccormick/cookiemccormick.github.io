@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Santa's SQL Join Tables "
-date:       2018-12-19 02:10:07 +0000
+title:      "Santa's SQL Join Tables"
+date:       2018-12-18 21:10:08 -0500
 permalink:  santas_sql_join_tables
 ---
 
