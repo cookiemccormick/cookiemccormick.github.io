@@ -359,6 +359,6 @@ Feel free to check out the application.
 
 **Rails with JavaScript Application Link:**
 
-https://github.com/cookiemccormick/dark-and-stormy-js
+[https://github.com/cookiemccormick/dark-and-stormy-js](http://)
 
 
