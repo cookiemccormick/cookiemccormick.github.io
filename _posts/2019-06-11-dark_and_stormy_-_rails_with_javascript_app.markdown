@@ -12,7 +12,7 @@ Dark and Stormy is a rails app for creating cocktail recipes.  The first step I 
 
 ## There are 5 main project requirements:
 
-### 1. Must translate JSON responses from your Rails app into JavaScript Model Objects using either ES6 class or constructor syntax. The Model Objects must have at least one method on the prototype. (Formatters work really well for this.)
+**1. Must translate JSON responses from your Rails app into JavaScript Model Objects using either ES6 class or constructor syntax. The Model Objects must have at least one method on the prototype. (Formatters work really well for this.)**
 
 In order to create JSON responses, I added the following gems:
 ```
@@ -72,7 +72,7 @@ class User {
 }
 ```
 
-### 2. Must render at least one index page (index resource - 'list of things') via JavaScript and an Active Model Serialization JSON Backend.
+**2. Must render at least one index page (index resource - 'list of things') via JavaScript and an Active Model Serialization JSON Backend.**
 
 When a user logs in, the first page view is the homepage which lists the 5 most recently created recipes.  This index view along with the recipes index view is fetched via AJAX GET requests on load.  
 
@@ -144,7 +144,7 @@ RECIPES INDEX VIEW
 RECIPES INDEX JSON VIEW
 ![](https://i.imgur.com/UjMAhu0.png)
 
-### 3. Must render at least one show page (show resource - 'one specific thing') via JavaScript and an Active Model Serialization JSON Backend.
+**3. Must render at least one show page (show resource - 'one specific thing') via JavaScript and an Active Model Serialization JSON Backend.**
 
 The recipe show page is fetched using JSON and rendered through JavaScript on page load.  A user is also able to see the previous and next recipes dynamically without a page refresh.
 
@@ -288,7 +288,7 @@ SHOW.HTML.ERB
 RECIPE SHOW VIEW
 ![](https://i.imgur.com/iWpch95.png)
 
-### 4. Your Rails application must dynamically render on the page at least one serialized 'has_many' relationship through JSON using JavaScript.
+**4. Your Rails application must dynamically render on the page at least one serialized 'has_many' relationship through JSON using JavaScript.**
 
 As seen in the above images.  Users are able to comment on a recipe.  A recipe `has_many` comments and a comment `belongs_to` a recipe.
 
@@ -316,7 +316,7 @@ class CommentSerializer < ActiveModel::Serializer
 end
 ```
 
-### 5. Must use your Rails application to render a form for creating a resource that is submitted dynamically and displayed through JavaScript and JSON without a page refresh.
+**5. Must use your Rails application to render a form for creating a resource that is submitted dynamically and displayed through JavaScript and JSON without a page refresh.**
 
 In the previous Rails Project, a new comment for a recipe is created through nested routes such as recipes/4/comments/new.  For this project, the comment form now appears on the recipe show page.  A user can add a comment to a recipe, the comment is serialized and submitted via AJAX POST request.  The comment is displayed through JavaScript and JSON without a page refresh.  If the comment field is submitted without any input, an error message will be displayed.  Since all the information about a recipe's comments are now found on the recipe show page, all comment views and routes were deleted, except for the create method.
 
