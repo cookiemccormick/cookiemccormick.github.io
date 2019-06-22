@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "JavaScript - Scopes and Hoisting"
-date:       2019-06-22 05:07:39 +0000
+date:       2019-06-22 01:07:40 -0400
 permalink:  javascript_-_scopes_and_hoisting
 ---
 
@@ -18,7 +18,7 @@ Scoping issues can occur with the misuse of variables.  When using ES6 syntax, i
 ### FUNCTION
 A function scope is an execution context defined by a function body.  Variables declared with `var` use this scope and are visible within the entire current function.  Outside of the function, we are not able to access anything declared inside.
 
-EXAMPLE
+EXAMPLES
 ```
 function functionScope() {
   var x = 4;
