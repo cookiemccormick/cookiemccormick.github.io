@@ -15,7 +15,7 @@ Scoping issues can occur with the misuse of variables.  When using ES6 syntax, i
 
 ![](https://stephaniemills.ca/dark-table-5ec7c8c60d7f366b7812e214d58a3c3d.svg)
 
-### FUNCTION
+### FUNCTION SCOPE
 A function scope is an execution context defined by a function body.  Variables declared with `var` use this scope and are visible within the entire current function.  Outside of the function, we are not able to access anything declared inside.
 
 EXAMPLES
@@ -40,7 +40,7 @@ functionScope();
 //=> 4
 ```
 
-### BLOCK
+### BLOCK SCOPE
 A block scope is an execution context defined by a code block.  A code block is `if`, `switch`, `for`, `while` and function statements.  Variables declared using `const` or `let` use the rules of block scoping.  Outside of the code block, we are not able to access anything declared inside.
 
 EXAMPLES
